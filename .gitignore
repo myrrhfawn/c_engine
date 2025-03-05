@@ -1,0 +1,6 @@
+# IDEs
+.vscode
+
+# Compiled source 
+/bin/*
+*.o
